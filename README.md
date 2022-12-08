@@ -1,3 +1,14 @@
+* the routes do not hook up correctly with the endpoint
+         * However, to test GetList 
+         * 1)                         <div className="App">
+                                        <GetList></GetList>
+                                    </div>
+         * and PostForm as show below will work
+         * 2)                         <div className="App">
+                                        <PostList></PostList>
+                                    </div>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
